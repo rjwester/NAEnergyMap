@@ -1,0 +1,6 @@
+C:\Projects\Personal\NAEnergyMap\NAEnergyMap\NAEnergyMap\obj\Debug\net7.0\NAEnergyMap.csproj.AssemblyReference.cache
+C:\Projects\Personal\NAEnergyMap\NAEnergyMap\NAEnergyMap\obj\Debug\net7.0\NAEnergyMap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Personal\NAEnergyMap\NAEnergyMap\NAEnergyMap\obj\Debug\net7.0\NAEnergyMap.AssemblyInfoInputs.cache
+C:\Projects\Personal\NAEnergyMap\NAEnergyMap\NAEnergyMap\obj\Debug\net7.0\NAEnergyMap.AssemblyInfo.cs
+C:\Projects\Personal\NAEnergyMap\NAEnergyMap\NAEnergyMap\obj\Debug\net7.0\NAEnergyMap.csproj.CoreCompileInputs.cache
+C:\Projects\Personal\NAEnergyMap\NAEnergyMap\NAEnergyMap\obj\Debug\net7.0\NAEnergyMap.MvcApplicationPartsAssemblyInfo.cache
