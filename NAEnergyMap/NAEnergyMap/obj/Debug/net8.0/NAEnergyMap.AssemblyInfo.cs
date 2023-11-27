@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NAEnergyMap")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a87f186860922c1487910168dcfcacb773cfc87c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c90b7ab6e9abdecc40a0a3fe51a6c4f53eeee846")]
 [assembly: System.Reflection.AssemblyProductAttribute("NAEnergyMap")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NAEnergyMap")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

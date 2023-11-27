@@ -28,3 +28,10 @@ C:\Projects\Personal\NAEnergyMap\NAEnergyMap\NAEnergyMap\obj\Debug\net8.0\refint
 C:\Projects\Personal\NAEnergyMap\NAEnergyMap\NAEnergyMap\obj\Debug\net8.0\NAEnergyMap.pdb
 C:\Projects\Personal\NAEnergyMap\NAEnergyMap\NAEnergyMap\obj\Debug\net8.0\NAEnergyMap.genruntimeconfig.cache
 C:\Projects\Personal\NAEnergyMap\NAEnergyMap\NAEnergyMap\obj\Debug\net8.0\ref\NAEnergyMap.dll
+C:\Projects\Personal\NAEnergyMap\NAEnergyMap\NAEnergyMap\obj\Debug\net8.0\NAEnergyMap.csproj.AssemblyReference.cache
+C:\Projects\Personal\NAEnergyMap\NAEnergyMap\NAEnergyMap\obj\Debug\net8.0\NAEnergyMap.MvcApplicationPartsAssemblyInfo.cs
+C:\Projects\Personal\NAEnergyMap\NAEnergyMap\NAEnergyMap\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Projects\Personal\NAEnergyMap\NAEnergyMap\NAEnergyMap\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projects\Personal\NAEnergyMap\NAEnergyMap\NAEnergyMap\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projects\Personal\NAEnergyMap\NAEnergyMap\NAEnergyMap\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projects\Personal\NAEnergyMap\NAEnergyMap\NAEnergyMap\obj\Debug\net8.0\NAEnergyMap.csproj.CopyComplete
